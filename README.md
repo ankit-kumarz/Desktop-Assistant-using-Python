@@ -134,4 +134,4 @@ Pull requests and suggestions are welcome!
 
 ---
 
-Would you like me to generate badges (like Python version, license, last updated, etc.) for your README too?
+Would you like me to generate badges (like Py
