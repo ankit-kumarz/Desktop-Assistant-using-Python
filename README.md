@@ -46,7 +46,7 @@ git clone https://github.com/ankit-kumarz/Desktop-Assistant-using-Python.git
 cd Desktop-Assistant-using-Python
 ```
 
-### 2. Create and Activate Virtual Environment
+### 2. Create and Activate Virtual Environment 
 
 ```bash
 conda create -n assistant python=3.10
