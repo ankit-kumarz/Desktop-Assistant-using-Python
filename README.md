@@ -33,7 +33,6 @@ A smart, multilingual desktop assistant built with Python that can operate both 
 * **SpeechRecognition**, **pyttsx3**, **wikipedia**, **datetime**
 * **Streamlit** for the web interface
 * **Google Text-to-Speech (gTTS)** for audio generation
-* **OpenAI or NLP API** (optional for smarter responses)
 * **Virtual Environment** via Conda
 
 ---
