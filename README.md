@@ -109,15 +109,6 @@ git push origin main
 
 ---
 
-## 💡 Future Improvements
-
-* Add personal productivity features: email reading, weather updates, task reminders.
-* Integrate with **LLMs (like GPT)** for more intelligent conversations.
-* Improve multilingual support using translation APIs.
-* Deploy Streamlit app with **Streamlit Cloud or Hugging Face Spaces**.
-
----
-
 ## 📬 Contact
 
 **👨‍💻 Ankit Kumar**
