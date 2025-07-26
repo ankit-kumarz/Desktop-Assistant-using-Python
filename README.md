@@ -95,20 +95,6 @@ git push origin main
 
 ---
 
-## 📸 Screenshots
-
-<details>
-<summary>🖼 Click to expand</summary>
-
-> You can add images of the UI or command-line demo here
-> Example:
-> ![Jarvis Web App](static/demo-ui.png)
-> ![Jarvis CLI](static/demo-cli.png)
-
-</details>
-
----
-
 ## 📬 Contact
 
 **👨‍💻 Ankit Kumar**
